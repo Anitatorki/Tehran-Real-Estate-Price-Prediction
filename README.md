@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to predict house prices in Tehran using a machine learning approach. The dataset includes various features that might influence house prices, and the analysis is conducted using Python in a Jupyter Notebook.
+This project aims to predict house prices in Tehran using a machine-learning approach. The dataset includes various features that might influence house prices, and the analysis is conducted using Python in a Jupyter Notebook.
 
 ## Files
 
@@ -19,11 +19,6 @@ To run the code in this project, you will need the following Python packages:
 - matplotlib
 - seaborn
 
-You can install these packages using pip:
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
-```
 
 ## Usage
 
@@ -66,7 +61,7 @@ house-price-prediction/
 The dataset `housePrice.csv` includes the following columns (example columns, adjust as per your dataset):
 
 - `id`: Unique identifier for each house
-- `location`: The neighborhood or area of Tehran
+- `location`: The neighbourhood or area of Tehran
 - `size`: Size of the house in square meters
 - `rooms`: Number of rooms
 - `price`: The price of the house
@@ -88,6 +83,4 @@ If you wish to contribute to this project, please create a new branch and submit
 
 This project is licensed under the MIT License.
 
----
 
-Feel free to customize this README further to match the specifics of your project. If there are additional details or specific instructions you'd like to include, let me know!
